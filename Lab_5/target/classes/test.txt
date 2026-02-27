@@ -1,0 +1,13 @@
+# Это комментарий - он игнорируется
+add
+TestCar
+150
+200
+500.0
+50.0
+CAR
+GASOLINE
+
+show
+info
+save
